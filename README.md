@@ -86,3 +86,11 @@ It is not affiliated with or endorsed by HJfod.
 BetterEdit remains the original work and legacy of HJfod.
 
 Thank you to everyone who contributed to the Geometry Dash modding community.
+
+## ❤️ Support HJfod
+
+Nova Edit is a fork of Better Edit by HJfod.
+
+- GitHub Sponsors: [HJfod](https://github.com/sponsors/HJfod)
+- Ko-fi: [hjfod](https://ko-fi.com/hjfod)
+- PayPal: [hjfod](https://paypal.me/hjfod)
